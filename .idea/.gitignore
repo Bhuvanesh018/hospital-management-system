@@ -1,0 +1,19 @@
+# Hide database password file
+DatabaseConnection.java
+
+# Java compiled files
+*.class
+*.jar
+out/
+build/
+target/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+nbproject/
+
+# OS files
+.DS_Store
+Thumbs.db
